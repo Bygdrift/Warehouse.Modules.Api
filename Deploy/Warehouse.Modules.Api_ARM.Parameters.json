@@ -5,12 +5,6 @@
         "ModuleName": {
             "value": "Api"
         },
-        "AzureSubscriptionId": {
-            "value": ""
-        },
-        "AzureTenantId": {
-            "value": ""
-        },
         "AzureClientId": {
             "value": ""
         },
