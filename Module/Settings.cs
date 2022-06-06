@@ -18,6 +18,5 @@ namespace Module
 
         [ConfigSecret]
         public string AzureSecret { get; set; }
-
     }
 }
